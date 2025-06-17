@@ -117,4 +117,6 @@ This project uses OpenSSL for cryptographic operations and other dependencies. W
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  16 June URL cleanup
+
+
+Update:  17 June link has been restored
